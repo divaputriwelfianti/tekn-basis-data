@@ -20,3 +20,8 @@ gambar 2
 ![pic-16](gambar/pic-16.png)
 ![pic-17](gambar/pic-17.png)
 ![pic-18](gambar/pic-18.png)
+![pic-19](gambar/pic-19.png)
+# Tugas 
+![pic-20](gambar/pic-20.png)
+![pic-21](gambar/pic-21.png)
+![pic-22](gambar/pic-22.png)

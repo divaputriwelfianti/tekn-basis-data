@@ -1,10 +1,9 @@
 # LAPORAN
 pada praktik kali ini cukup membingungkan, sehingga pada praktik ini saya akan melaporkan 
 apa yang bisa saya kerjakan. maka akan terlihat pada gambar berikut terdapat sudah bisa 
-menjakankan redis. 
+menginstall rediis. tetapi belum bisa menjalankannya. 
 
-![gambar1](gambar/gambar1.jpeg)
-![gambar2](gambar/gambar2.jpeg)
-![gambar3](gambar/gambar3.jpeg)
-![gambar4](gambar/gambar4.jpeg)
-![gambar5](gambar/gambar5.jpeg)
+![Screenshot_12](gambar/Screenshot_12.png)
+![Screenshot_1](gambar/Screenshot_1.png)
+![Screenshot_2](gambar/Screenshot_2.png)
+![Screenshot_3](gambar/Screenshot_3.png)

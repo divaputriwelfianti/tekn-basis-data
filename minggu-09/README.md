@@ -6,6 +6,8 @@ LATIHAN
 
    ![Screenshot_1](gambar/Screenshot_2.png) 
 
+   
+
 
 TUGAS 
 1. 

@@ -45,4 +45,3 @@ selanjutnya kita akan mengikuti perintah yang ada di modul sampai selesai.
 ![Screenshot_16](gambar/Screenshot_16.png)
 ![Screenshot_17](gambar/Screenshot_17.png)
 ![Screenshot_18](gambar/Screenshot_18.png)
-![Screenshot_19](gambar/Screenshot_19.png)
